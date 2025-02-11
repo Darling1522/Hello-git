@@ -1,1 +1,1 @@
-Hello=Git
+Descripcion del proyecto
